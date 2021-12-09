@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66265164434",
+    "project_id": "deneme-ad581",
+    "storage_bucket": "deneme-ad581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66265164434:android:e7c35732fc6ced6597144b",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66265164434-5hjkvq3hoil0pmiivqrrcikq0amdmjdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZuIw3X_8DVvrS_eyoolKCFhz09kHFCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66265164434-5hjkvq3hoil0pmiivqrrcikq0amdmjdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
